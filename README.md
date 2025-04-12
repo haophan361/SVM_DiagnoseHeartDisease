@@ -21,17 +21,33 @@ The dataset includes:
 
 ![Data Visualization 5](https://drive.google.com/uc?export=view&id=1lICcUDlUqDtdzUszX2OrybWAcK86d4u6)  
 
-![Data Visualization 6](https://drive.google.com/uc?export=view&id=1p9yWvp7Efx5zDcwRU3OsCFgokmBO0aNo)  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1p9yWvp7Efx5zDcwRU3OsCFgokmBO0aNo" alt="Data Visualization 6">
+    </td>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1826JwQmg4ZUmZ0AY16Sdf6Q4RkWQsxrA" alt="Data Visualization 7">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1JoMlRl9H2Sw2nUtWU3gtkV-zvjyIW77A" alt="Data Visualization 8">
+    </td>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1dGti9mqr2-7ovcgCgekt1QysNLoU9ou9" alt="Data Visualization 9">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1OECZQuyraQsegzhNj-0XeWo2-dezzXu5" alt="Data Visualization 10">
+    </td>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1yU4F-LWu6HqNMq2UN4wGrVo5xDMV5YxV" alt="Data Visualization 11">
+    </td>
+  </tr>
+</table>
 
-![Data Visualization 7](https://drive.google.com/uc?export=view&id=1JoMlRl9H2Sw2nUtWU3gtkV-zvjyIW77A)
-
-![Data Visualization 8](https://drive.google.com/uc?export=view&id=1826JwQmg4ZUmZ0AY16Sdf6Q4RkWQsxrA)
-
-![Data Visualization 9](https://drive.google.com/uc?export=view&id=1dGti9mqr2-7ovcgCgekt1QysNLoU9ou9)
-
-![Data Visualization 10](https://drive.google.com/uc?export=view&id=1OECZQuyraQsegzhNj-0XeWo2-dezzXu5)
-
-![Data Visualization 11](https://drive.google.com/uc?export=view&id=1yU4F-LWu6HqNMq2UN4wGrVo5xDMV5YxV)
 
 ## 3. Build and Train Model
 
